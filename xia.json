@@ -174,11 +174,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {"key":"csp_CZSPP","name":"厂长资源(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Bttoo","name":"两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_biubiu_骚火电影","name":"骚火电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0},
-    {"key":"csp_biubiu_LIBVIO","name":"LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0},
-{
+    {
       "key": "Bili",
       "name": "B站",
       "type": 3,
@@ -195,7 +191,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "cf714db2d4f04f99af1229f3332cc71a"
+      "ext": "69d7504baefc4f9aa2b2a06f65422382"
     },
     {
       "key": "Gitcafe",
@@ -205,7 +201,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "cf714db2d4f04f99af1229f3332cc71a"
+      "ext": "69d7504baefc4f9aa2b2a06f65422382"
     },
     {
       "key": "push_agent",
@@ -215,7 +211,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "cf714db2d4f04f99af1229f3332cc71a"
+      "ext": "69d7504baefc4f9aa2b2a06f65422382"
     }
   ],
   "lives": [
