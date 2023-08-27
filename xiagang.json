@@ -1,7 +1,7 @@
 ﻿
 
 {
-"spider": "./fty.jar;md5;930502e07a96205a195ddc35a6265148",
+"spider": "./fty.jar;md5;b1f2f909e2cfd33ac2aa005e316e6e40",
 //"spider": "./spider.jar",
     //"wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
     "wallpaper": "http://itvbox.cc/api.php",
@@ -16,25 +16,11 @@
       "quickSearch": 0,
       "filterable": 0
     },
-      {
-      "key": "csp_Nbys",
-      "name": "泥巴┃飞",
-      "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_trj",
-      "name": "唐人街┃飞",
-      "type": 3,
-      "api": "csp_Tangrenjie",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    }, 
-{"key":"好趣网","name":"电视 | 好趣网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/好趣网.js"},
+     {"key":"kunyu77","name":"七七[cat]","type":3,"api":"./cat/kunyu77_open.js"},
+     {"key":"nangua","name":"南瓜影视[cat]","type":3,"api":"./cat/ng_open.js"},
+     {"key":"czzy","name":"厂长资源[cat]","type":3,"api":"./cat/czzy_open.js"},
+    {"key":"libvio_open","name":"利播[cat]","type":3,"api":"./cat/libvio_open.js"},
+     {"key":"好趣网","name":"电视 | 好趣网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/好趣网.js"},
     {"key":"MV_vod","name":"电视┃MTV","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod"},
     {
             "key": "csp_Bili",
@@ -485,14 +471,13 @@
     },
     {
       "key": "石榴",
-      "name": "石榴(XBPQ)",
+      "name": "石榴（XBPQ）",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
       "ext": "./XBPQ/石榴.json"
     },
-
-   {
+    {
       "key": "csp_蛋蛋",
       "name": "蛋蛋影视（XBPQ）",
       "type": 3,
@@ -503,6 +488,7 @@
       "ext": "./XBPQ/蛋蛋影视.json"
     },
 {"key":"drpy_js_荐片","name":"荐片[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js","playerType":"1"},
+{"key":"drpy_js_子子影视","name":"子子影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/子子影视.js"},
 {"key":"drpy_js_我的哔哩","name":"我的哔哩[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/我的哔哩.js"},
 {"key":"drpy_js_厂长资源","name":"厂长资源[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/厂长资源.js"},
 {"key":"drpy_js_酷云七七","name":"酷云七七[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷云77.js"},
@@ -558,7 +544,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "http://52bsj.vip:81/api/v3/file/get/145917/token.txt?sign=uzwdNvUxRmtTW2dt9HWkoAxmDUghK08QRKsaDiDNYXY%3D%3A0"
     },
     {
             "key": "csp_WoGG",
@@ -568,7 +554,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+            "ext": "http://52bsj.vip:81/api/v3/file/get/145917/token.txt?sign=uzwdNvUxRmtTW2dt9HWkoAxmDUghK08QRKsaDiDNYXY%3D%3A0"
         },
       
       {
@@ -591,7 +577,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+            "ext": "http://52bsj.vip:81/api/v3/file/get/145917/token.txt?sign=uzwdNvUxRmtTW2dt9HWkoAxmDUghK08QRKsaDiDNYXY%3D%3A0"
         },
         {
             "key": "PanSou",
@@ -602,7 +588,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+            "ext": "http://52bsj.vip:81/api/v3/file/get/145917/token.txt?sign=uzwdNvUxRmtTW2dt9HWkoAxmDUghK08QRKsaDiDNYXY%3D%3A0"
         },
         {
             "key": "UpYun",
@@ -613,7 +599,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+            "ext": "http://52bsj.vip:81/api/v3/file/get/145917/token.txt?sign=uzwdNvUxRmtTW2dt9HWkoAxmDUghK08QRKsaDiDNYXY%3D%3A0"
         },
         {
             "key": "PanSearch",
@@ -623,7 +609,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+            "ext": "http://52bsj.vip:81/api/v3/file/get/145917/token.txt?sign=uzwdNvUxRmtTW2dt9HWkoAxmDUghK08QRKsaDiDNYXY%3D%3A0"
         },
       {"key":"csp_阿里七夜",
       "name":"┃七夜┃4k搜索",
@@ -632,7 +618,7 @@
       "quickSearch":1,
       "filterable":0,
       "jar": "https://amanchi.netlify.app/jar/fm.jar",
-      "ext":"http://127.0.0.1:9978/file/tvbox/token.txt"},
+      "ext":"http://52bsj.vip:81/api/v3/file/get/145917/token.txt?sign=uzwdNvUxRmtTW2dt9HWkoAxmDUghK08QRKsaDiDNYXY%3D%3A0"},
       {"key":"TuGou",
       "name":"土狗┃4k搜索",
       "type":3,
@@ -640,7 +626,7 @@
       "searchable":1,
       "quickSearch":1,
       "changeable":0,
-      "ext":"hhttp://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext":"http://52bsj.vip:81/api/v3/file/get/145917/token.txt?sign=uzwdNvUxRmtTW2dt9HWkoAxmDUghK08QRKsaDiDNYXY%3D%3A0"
       },
       {
             "key": "土拨鼠",
@@ -652,21 +638,6 @@
             "filterable": 1,
             "ext": "./json/土拨鼠.json"
         },
-        {
-        	"key": "秒看",      
-        	"name": "秒看采集",     
-        	"type": 1,      
-        	"api": "https://mkzy.vip/api.php/provide/vod",      
-        	"playUrl": "https://player.3412.net.cn/?url=",      
-        	"searchable": 1,      
-        	"changeable": 1,      
-        	"categories": [        
-        	"电影",        
-        	"电视剧",        
-        	"综艺",        
-        	"动漫"      
-        	]    
-        	},
         {
       "key": "cjzy_快看",
       "name": "快看采集",
@@ -694,25 +665,23 @@
         "惊悚片",
         "冒险片"
       ]
-    },  
-    {
-      "key": "csp_xml_享看",
-      "name": "享看采集",
-      "type": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "https://xkanzy10.com/api.php/provide/vod"
     },
         {
-      "key": "闪电资源",
-      "name": "闪电采集",
-      "type": 1,
-      "api": "http://sdzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-        {
+        	"key": "秒看",      
+        	"name": "秒看采集",     
+        	"type": 1,      
+        	"api": "https://mkzy.vip/api.php/provide/vod",      
+        	"playUrl": "https://player.3412.net.cn/?url=",      
+        	"searchable": 1,      
+        	"changeable": 1,      
+        	"categories": [        
+        	"电影",        
+        	"电视剧",        
+        	"综艺",        
+        	"动漫"      
+        	]    
+        	},
+          {
           	"key": "影图",      
           	"name": "影图采集",      
           	"type": 1,      
@@ -748,35 +717,6 @@
          "动漫",
          "直播"]},
      {
-      "key": "新浪资源",
-      "name": "新浪采集",
-      "type": 1,
-      "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playUrl": "",
-      "categories": [
-        "大陆剧",
-        "动作片",
-        "动漫",
-        "综艺"
-      ]
-    },
-     {
-      "key": "百度资源",
-      "name": "百度采集",
-      "type": 1,
-      "api": "https://api.apibdzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "大陆剧",
-        "战争片",
-        "动作片",
-        "喜剧片"
-      ]
-    },    
-    {
       "key": "暴风资源",
       "name": "暴风采集",
       "type": 1,
@@ -826,7 +766,7 @@
 
  {
             "key": "高清资源网",
-            "name": "高清采集",
+            "name": "️高清采集",
             "type": 1,
             "api": "https://api.1080zyku.com/inc/apijson.php",
             "playUrl": "https://vip.zykbf.com/?url=",
@@ -862,7 +802,7 @@
         },
         {
             "key": "飞速",
-            "name": "飞速采集",
+            "name": "️飞速采集",
             "type": 1,
             "api": "https://www.feisuzyapi.com/api.php/provide/vod/",
             "playUrl":"https://yun.ckmov.com/?url=",
@@ -885,7 +825,7 @@
         },
         {
             "key": "天空",
-            "name": "天空采集",
+            "name": "️天空采集",
             "type": 1,
             "api": "https://api.tiankongapi.com/api.php/provide/vod/",
             "playUrl":"https://yun.ckmov.com/?url=",
@@ -912,7 +852,7 @@
         },
         {
             "key": "干饭",
-            "name": "干饭采集",
+            "name": "️干饭采集",
             "type": 1,
             "api": "http://124.220.183.81:83/api.php/provide/vod/",
             "playUrl": "https://jx.bozrc.com:4433/player/?url=",
@@ -928,7 +868,7 @@
         },
          {
             "key": "卧龙",
-            "name": "卧龙采集",
+            "name": "️卧龙采集",
             "type": 1,
             "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
             "playUrl":"https://yun.ckmov.com/?url=",
@@ -955,7 +895,7 @@
         },
         {
             "key": "易梦",
-            "name": "忆梦采集",
+            "name": "️忆梦采集",
             "type": 1,
             "api": "http://anltv.cn/api.php/provide/vod/",
            "playUrl":"https://yun.ckmov.com/?url=",
@@ -981,7 +921,7 @@
         },
     {
             "key": "非凡2",
-            "name": "非凡采集",
+            "name": "️非凡采集",
             "type": 1,
             "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
             "playUrl":"https://yun.ckmov.com/?url=",
@@ -1007,7 +947,7 @@
         },
         {
             "key": "量子2",
-            "name": "量子采集",
+            "name": "️量子采集",
             "type": 1,
             "api": "https://cj.lziapi.com/api.php/provide/vod/",
             "playUrl":"https://yun.ckmov.com/?url=",
