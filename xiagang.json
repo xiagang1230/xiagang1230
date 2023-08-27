@@ -1,8 +1,8 @@
 ﻿
 
 {
-//"spider": "./fty.jar;md5;c5e26e90fe3803535b0f87d4eedc7049",
- "spider": "./spider.jar",
+"spider": "./fty.jar;md5;930502e07a96205a195ddc35a6265148",
+//"spider": "./spider.jar",
     //"wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
     "wallpaper": "http://itvbox.cc/api.php",
      "sites": [
@@ -16,7 +16,25 @@
       "quickSearch": 0,
       "filterable": 0
     },
-     {"key":"好趣网","name":"电视 | 好趣网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/好趣网.js"},
+      {
+      "key": "csp_Nbys",
+      "name": "泥巴┃飞",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_trj",
+      "name": "唐人街┃飞",
+      "type": 3,
+      "api": "csp_Tangrenjie",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    }, 
+{"key":"好趣网","name":"电视 | 好趣网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/好趣网.js"},
     {"key":"MV_vod","name":"电视┃MTV","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod"},
     {
             "key": "csp_Bili",
@@ -466,6 +484,15 @@
       "ext": "./XBPQ/鸭奈飞影视.json"
     },
     {
+      "key": "石榴",
+      "name": "石榴(XBPQ)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": "1",
+      "ext": "./XBPQ/石榴.json"
+    },
+
+   {
       "key": "csp_蛋蛋",
       "name": "蛋蛋影视（XBPQ）",
       "type": 3,
@@ -531,7 +558,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://52bsj.vip:81/api/v3/file/get/145917/token.txt?sign=uzwdNvUxRmtTW2dt9HWkoAxmDUghK08QRKsaDiDNYXY%3D%3A0"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
     },
     {
             "key": "csp_WoGG",
@@ -541,7 +568,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://52bsj.vip:81/api/v3/file/get/145917/token.txt?sign=uzwdNvUxRmtTW2dt9HWkoAxmDUghK08QRKsaDiDNYXY%3D%3A0"
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
         },
       
       {
@@ -564,7 +591,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://52bsj.vip:81/api/v3/file/get/145917/token.txt?sign=uzwdNvUxRmtTW2dt9HWkoAxmDUghK08QRKsaDiDNYXY%3D%3A0"
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
         },
         {
             "key": "PanSou",
@@ -575,7 +602,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://52bsj.vip:81/api/v3/file/get/145917/token.txt?sign=uzwdNvUxRmtTW2dt9HWkoAxmDUghK08QRKsaDiDNYXY%3D%3A0"
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
         },
         {
             "key": "UpYun",
@@ -586,7 +613,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://52bsj.vip:81/api/v3/file/get/145917/token.txt?sign=uzwdNvUxRmtTW2dt9HWkoAxmDUghK08QRKsaDiDNYXY%3D%3A0"
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
         },
         {
             "key": "PanSearch",
@@ -596,7 +623,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://52bsj.vip:81/api/v3/file/get/145917/token.txt?sign=uzwdNvUxRmtTW2dt9HWkoAxmDUghK08QRKsaDiDNYXY%3D%3A0"
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
         },
       {"key":"csp_阿里七夜",
       "name":"┃七夜┃4k搜索",
@@ -605,7 +632,7 @@
       "quickSearch":1,
       "filterable":0,
       "jar": "https://amanchi.netlify.app/jar/fm.jar",
-      "ext":"http://52bsj.vip:81/api/v3/file/get/145917/token.txt?sign=uzwdNvUxRmtTW2dt9HWkoAxmDUghK08QRKsaDiDNYXY%3D%3A0"},
+      "ext":"http://127.0.0.1:9978/file/tvbox/token.txt"},
       {"key":"TuGou",
       "name":"土狗┃4k搜索",
       "type":3,
@@ -613,7 +640,7 @@
       "searchable":1,
       "quickSearch":1,
       "changeable":0,
-      "ext":"http://52bsj.vip:81/api/v3/file/get/145917/token.txt?sign=uzwdNvUxRmtTW2dt9HWkoAxmDUghK08QRKsaDiDNYXY%3D%3A0"
+      "ext":"hhttp://127.0.0.1:9978/file/tvbox/token.txt"
       },
       {
             "key": "土拨鼠",
@@ -640,7 +667,35 @@
         	"动漫"      
         	]    
         	},
-          {
+        {
+      "key": "cjzy_快看",
+      "name": "快看采集",
+      "type": 1,
+      "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/",
+      "playUrl": "",
+      "changeable": 1,
+      "playerType": 2,
+      "categories": [
+        "国产剧",
+        "港台剧",
+        "国产动漫",
+        "日韩剧",
+        "欧美剧",
+        "海外剧",
+        "动作片",
+        "爱情片",
+        "剧情片",
+        "科幻片",
+        "奇幻片",
+        "战争片",
+        "犯罪片",
+        "恐怖片",
+        "悬疑片",
+        "惊悚片",
+        "冒险片"
+      ]
+    },  
+    {
       "key": "csp_xml_享看",
       "name": "享看采集",
       "type": 1,
