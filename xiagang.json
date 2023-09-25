@@ -44,7 +44,7 @@
     "quickSearch":0,
     "filterable":1,
     "changeable":1,
-    "ext":"http://52bsj.vip:81/api/v3/file/get/152846/%E6%AD%8C%E6%9B%B2.txt?sign=-2_toRbp78EKMPxnxzkSn5kge5uW49RpmNslcoYeRP4%3D%3A0"
+    "ext":"./json/歌曲MV.json"
     },
     {
     "key":"csp_新Bili",
@@ -98,7 +98,7 @@
     "searchable":0,
     "quickSearch":0,
     "filterable":1,
-    "ext":"http://52bsj.vip:81/api/v3/file/get/138569/ych.json?sign=P4nax62AmXS9DiPSHZ3voiSYFU8r5Q_bjx8fmHLtdlM%3D%3A0"
+    "ext":"./json/MTV.json"
     },
     {
     "key":"戏曲",
@@ -107,7 +107,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"http://52bsj.vip:81/api/v3/file/get/138560/%E6%88%8F%E6%9B%B2.json?sign=z4Q-3sXaufVzAreJ6nmCg53BKoqvWcT_4WA4jF6BPR0%3D%3A0"
+    "ext":"./json/戏曲.json"
     },
     {
     "key":"少儿教育",
