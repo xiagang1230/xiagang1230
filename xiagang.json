@@ -13,8 +13,7 @@
     "filterable":0
     },
     {"key":"好趣网","name":"电视|好趣网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/好趣网.js"},
-     {"key":"MV_vod","name":"MV","type":1,"jar":"./f.jar","ext":"https://agit.ai/xiagang1230/TV/raw/branch/master/xia/json/MV.json"}, 
-	   {
+   {
     "key":"csp_Bili",
     "name":"哔哔┃合集",
     "type":3,
