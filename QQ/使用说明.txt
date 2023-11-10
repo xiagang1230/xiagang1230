@@ -1,0 +1,14 @@
+{
+      "key": "MTV转点播",
+      "name": "万首|MTV",
+      "type": 3,
+      "api": "./lib/直播转点播2.js",
+      "ext": "./lib/MV.json"
+    },
+    {
+      "key": "MV转点播",
+      "name": "MTV",
+      "type": 3,
+      "api": "./lib/直播转点播.js",
+      "ext": "./lib/mv.txt"
+    },
