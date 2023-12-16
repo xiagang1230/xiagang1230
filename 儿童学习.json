@@ -1,9 +1,94 @@
 ﻿    {
     "spider":"./fty.jar;md5;97d9efc07537b82bea316cb10ea76651",
     "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
-    //"wallpaper":"本人的家庭接口和儿童接口全部来自己饭佬JAR和壁纸。cat来自猫大。接口只供自己家人和朋友在使用，如冒犯请联系本人删除（把接口发在饭佬频道，我看见会删除），非常感谢饭佬",
     "sites":[
     {
+    "key":"csp_Bili",
+    "name":"合集",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":1,
+    "quickSearch":0,
+    "filterable":1,
+    "changeable":1,
+    "ext":"./json/bilibili.json"
+    },
+    
+{
+    "key":"csp_bilibili",
+    "name":"合集2",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":1,
+    "quickSearch":0,
+    "filterable":1,
+    "changeable":1,
+    "ext":"./json/bili.json"
+    },
+{
+    "key":"csp_Biliych",
+    "name":"演唱会",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":1,
+    "quickSearch":0,
+    "filterable":1,
+    "changeable":1,
+    "ext":"./json/biliych.json"
+    },
+        {
+    "key":"csp_bili歌曲",
+    "name":"MV",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":1,
+    "quickSearch":0,
+    "filterable":1,
+    "changeable":1,
+    "ext":"./json/歌曲MV.json"
+    },
+   {
+    "key":"MTV",
+    "name":"MTV",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":1,
+    "ext":"./json/MTV.json"
+    }, 
+{
+    "key":"csp_新Bili",
+    "name":"新bili",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":1,
+    "quickSearch":0,
+    "filterable":1,
+    "changeable":1,
+    "ext":"./json/新哔哩.json"
+    },
+ {
+    "key":"csp_ysjs",
+    "name":"影视解说.",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":1,
+    "quickSearch":0,
+    "filterable":1,
+    "changeable":1,
+    "ext":"./json/影视解说.json"
+    },
+    {
+    "key":"戏曲",
+    "name":"戏曲",
+    "type":3,"api":"csp_Bili",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"./json/戏曲.json"
+    },
+   {
     "key":"幼儿乐园",
     "name":"幼儿乐园",
     "type":3,"api":
