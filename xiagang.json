@@ -13,153 +13,40 @@
     "filterable":0
     },
     {"key":"好趣网","name":"电视|好趣网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/好趣网.js"},
-   {
-    "key":"csp_Bili",
-    "name":"哔哔┃合集",
-    "type":3,
-    "api":"csp_Bili",
-    "searchable":1,
-    "quickSearch":0,
-    "filterable":1,
-    "changeable":1,
-    "ext":"./json/bilibili.json"
-    },
-    {
-    "key":"csp_bilibili",
-    "name":"合集2",
-    "type":3,
-    "api":"csp_Bili",
-    "searchable":1,
-    "quickSearch":0,
-    "filterable":1,
-    "changeable":1,
-    "ext":"./json/bili.json"
-    },
-    {
-    "key":"csp_bili歌曲",
-    "name":"歌曲",
-    "type":3,
-    "api":"csp_Bili",
-    "searchable":1,
-    "quickSearch":0,
-    "filterable":1,
-    "changeable":1,
-    "ext":"./json/歌曲MV.json"
-    },
-    {
-    "key":"csp_新Bili",
-    "name":"哔哔┃新bili",
-    "type":3,
-    "api":"csp_Bili",
-    "searchable":1,
-    "quickSearch":0,
-    "filterable":1,
-    "changeable":1,
-    "ext":"./json/新哔哩.json"
-    },
-    {
-    "key":"csp_学堂",
-    "name":"哔哔┃学堂",
-    "type":3,
-    "api":"csp_Bili",
-    "searchable":1,
-    "quickSearch":0,
-    "filterable":1,
-    "changeable":1,
-    "ext":"./json/学堂.json"
-    },
-    {
-    "key":"csp_Biliych",
-    "name":"哔哔┃演唱会",
-    "type":3,
-    "api":"csp_Bili",
-    "searchable":1,
-    "quickSearch":0,
-    "filterable":1,
-    "changeable":1,
-    "ext":"./json/biliych.json"
-    },
-    {
-    "key":"csp_ysjs",
-    "name":"哔哔┃影视解说.",
-    "type":3,
-    "api":"csp_Bili",
-    "searchable":1,
-    "quickSearch":0,
-    "filterable":1,
-    "changeable":1,
-    "ext":"./json/影视解说.json"
-    },
-    {
-    "key":"MTV",
-    "name":"biliMTV",
-    "type":3,
-    "api":"csp_Bili",
-    "searchable":0,
-    "quickSearch":0,
-    "filterable":1,
-    "ext":"./json/MTV.json"
-    },
-    {
-    "key":"戏曲",
-    "name":"戏曲（B站）",
-    "type":3,"api":"csp_Bili",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"./json/戏曲.json"
-    },
-    {
-    "key":"少儿教育",
-    "name":"少儿┃教育",
-    "type":3,
-    "api":"csp_Bili",
-    "searchable":0,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"./json/少儿教育.json"
-    },
-    {
-    "key":"儿童",
-    "name":"少儿教育1",
-    "type":3,
-    "api":"csp_Bili",
-    "searchable":0,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"./json/少儿教育1.json"
-    },
-    {
-    "key":"小学课堂",
-    "name":"小学┃课堂",
-    "type":3,
-    "api":"csp_Bili",
-    "searchable":0,
-    "quickSearch":0,
-    "filterable":1,
-    "ext":"./json/小学课堂.json"
-    },
-    {
-    "key":"初中课堂",
-    "name":"初中┃课堂",
-    "type":3,
-    "api":"csp_Bili",
-    "searchable":0,
-    "quickSearch":0,
-    "filterable":1,
-    "ext":"./json/初中课堂.json"
-    },
-    {
-    "key":"高中教育",
-    "name":"高中┃课堂",
-    "type":3,
-    "api":"csp_Bili",
-    "searchable":0,
-    "quickSearch":0,
-    "filterable":1,
-    "ext":"./json/高中课堂.json"
-    },  
+     {
+      "key": "cctv",
+      "name": "央视大全",
+      "jar": "./HC.jar",
+      "type": 3,
+      "api": "csp_CCTV",
+      "searchable": 0,
+      "filterable": 0,
+      "ext": "./json/CCTV.json"
+            },
 	   {
+      "key": "MV_vod",
+      "name": "明星┃MV",
+      "type": 1,
+      "api": "https://mv.wogg.link/mv/vod",
+      "style": {
+        "type": "oval"
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+	  
+	   {
+      "key": "玩偶哥哥",
+      "name": "玩偶哥哥",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+    },
+	{
             "key": "csp_wogg_cli",
             "name": "玩偶[T4]",
             "type": 4,
@@ -191,11 +78,17 @@
             "filterable": 1,
             "timeout": 30
         },
-    {"key":"kunyu77","name":"七七[cat]","type":3,"api":"./cat/kunyu77_open.js"},
-    {"key":"nangua","name":"南瓜影视[cat]","type":3,"api":"./cat/ng_open.js"},
-    {"key":"czzy","name":"厂长资源[cat]","type":3,"api":"./cat/czzy_open.js"},
-    {"key":"libvio_open","name":"利播[cat]","type":3,"api":"./cat/libvio_open.js"},
-    {
+	 {
+      "key": "南瓜",
+      "name": "南瓜",
+      "type": 3,
+      "api": "csp_NanGua",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },  
+	   {
     "key":"csp_77",
     "name":"七七",
     "type":3,
@@ -214,6 +107,38 @@
     "filterable":1
     },
     {
+      "key": "一起看 ",
+      "name": "一起看",
+      "type": 3,
+      "api": "csp_YQKan",
+      "searchable": 1,
+      "playerType": "2",
+      "quickSearch": 1,
+      "changeable": 1
+    },
+	{
+    "key":"姐姐",
+    "name":"玩偶姐姐",
+    "type":3,
+    "api":"csp_AppYsV2",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://dytt996.com/api.php/app/"
+    },
+    {
+    "key":"小姨",
+    "name":"玩偶妹妹",
+    "type":1,
+    "api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
+    "categories":[
+    "电影",
+    "电视剧",
+    "综艺",
+    "动漫"
+    ]
+    },
+	   {
     "key":"csp_SP33",
     "name":"三三┃解析",
     "type":3,
@@ -223,24 +148,25 @@
     "filterable":1,
     "changeable":0
     },
-    {
-      "key": "蚂蚁",
-      "name": "蚂蚁",
+     {
+      "key": "忍者",
+      "name": "忍者",
       "type": 3,
-      "api": "csp_Mayiys",
+      "api": "csp_MYYS",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "changeable": 1,
       "ext": "http://rzys.xyz"
     },
     {
       "key": "毛驴",
       "name": "毛驴",
       "type": 3,
-      "api": "csp_Maolv",
+      "api": "csp_MLYS",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "ext": "https://www.maolvys.com/"
     },
     {
       "key": "率率",
@@ -292,15 +218,7 @@
     "playerType":"2",
     "ext":"https://www.kuin.one/api.php/app/"
     },
-    {"key":"csp_appys_如意4K",
-    "name":"如意",
-    "type":3,"api":"csp_AppYsV2",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"http://cms.maoyingshi.cc/api.php/app/"
-    },
-     {
+    {
       "key": "探探",
       "name": "影探",
       "type": 3,
@@ -366,24 +284,13 @@
     "ext":"http://app.mengdandan.com/xgapp.php/v1/"
     },
     {
-    "key":"csp_YQKAPP",
-    "name":"一起看",
-    "type":3,
-    "api":"csp_YQKAPP",
-    "playerType":2,
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://api-aws.11ty.top"
-    },
-    {
-    "key":"csp_AppMr",
-    "name":"明明",
-    "type":3,
-    "api":"csp_AppMr",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1
+      "key": "csp_Bttoo",
+      "name": "比特",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {"key":"迷你库",
     "name":"迷你库",
@@ -406,7 +313,7 @@
     },
     {
     "key":"明帝影视",
-    "name":"明帝┃直连",
+    "name":"明帝",
     "type":3,
     "api":"csp_AppYsV2",
     "searchable":1,
@@ -416,7 +323,7 @@
     },
     {
     "key":"鸭奈飞",
-    "name":"鸭奈飞┃直连",
+    "name":"鸭奈飞",
     "type":3,
     "api":"csp_AppYsV2",
     "searchable":1,
@@ -426,7 +333,7 @@
     },
     {
     "key":"csp_Lib",
-    "name":"利奥┃直连",
+    "name":"利奥",
     "type":3,
     "api":"csp_Libvio",
     "searchable":1,
@@ -436,7 +343,7 @@
     },
     {
     "key":"csp_zxzj",
-    "name":"在线┃直连",
+    "name":"在线",
     "type":3,
     "api":"csp_Zxzj",
     "searchable":1,
@@ -454,14 +361,25 @@
     "changeable":1,
     "ext":"./json/nmys.json"
     },
-    {
-    "key":"csp_DiDuan",
-    "name":"低端┃直连",
-    "type":3,
-    "api":"csp_Ddrk",
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":1
+     {
+      "key": "Cokemv",
+      "name": "可乐",
+      "type": 3,
+      "api": "csp_Cokemv",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+	 {
+      "key": "DiDuan",
+      "name": "低端",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
     "key":"csp_Czsapp",
@@ -471,38 +389,28 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "playerType":2,
-    "ext":"https://cz01.me/"
+    "playerType":2
     },
+    
     {
-    "key":"csp_fantuan",
-    "name":"饭团1",
-    "type":3,
-    "api":"csp_Fantuan",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://www.fantuanhd.com"
-    },
-    {
-    "key":"csp_量子",
-    "name":"量子（XBPQ）",
+    "key":"csp_Free",
+    "name":"Free（XBPQ）",
     "type":3,
     "api":"csp_XBPQ",
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"./XBPQ/量子资源网.json"
+    "ext":"./XBPQ/Free.json"
     },
     {
-    "key":"csp_非凡",
-    "name":"非凡（XBPQ）",
+    "key":"csp_nongmin",
+    "name":"农民XBPQ）",
     "type":3,
     "api":"csp_XBPQ",
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"./XBPQ/非凡资源网.json"
+    "ext":"./XBPQ/nongmin.json"
     },
     {
     "key":"csp_魔力",
@@ -525,24 +433,24 @@
     "ext":"./XBPQ/明帝影视.json"
     },
     {
-    "key":"csp_真不卡",
-    "name":"不卡影视（XBPQ）",
+    "key":"csp_91ys",
+    "name":"91（XBPQ）",
     "type":3,
     "api":"csp_XBPQ",
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"./XBPQ/真不卡影视.json"
+    "ext":"./XBPQ/91ys.json"
     },
     {
-    "key":"csp_鸭奈飞",
-    "name":"奈飞影视（XBPQ）",
+    "key":"csp_55",
+    "name":"55（XBPQ）",
     "type":3,
     "api":"csp_XBPQ",
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"./XBPQ/鸭奈飞影视.json"
+    "ext":"./XBPQ/55.json"
     },
     {
     "key":"石榴",
@@ -553,16 +461,20 @@
     "ext":"./XBPQ/石榴.json"
     },
     {
-    "key":"csp_蛋蛋",
-    "name":"蛋蛋影视（XBPQ）",
+    "key":"csp_厂长",
+    "name":"厂长（XBPQ）",
     "type":3,
     "api":"csp_XBPQ",
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"./XBPQ/蛋蛋影视.json"
+    "ext":"./XBPQ/厂长.json"
     },
-    {"key":"drpy_js_荐片","name":"荐片[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js","playerType":"1"},
+    {"key":"kunyu77","name":"七七[cat]","type":3,"api":"./cat/kunyu77_open.js"},
+    {"key":"nangua","name":"南瓜影视[cat]","type":3,"api":"./cat/ng_open.js"},
+    {"key":"czzy","name":"厂长资源[cat]","type":3,"api":"./cat/czzy_open.js"},
+    {"key":"libvio_open","name":"利播[cat]","type":3,"api":"./cat/libvio_open.js"},
+	   {"key":"drpy_js_荐片","name":"荐片[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js","playerType":"1"},
     {"key":"drpy_js_子子影视","name":"子子影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/子子影视.js"},
     {"key":"drpy_js_我的哔哩","name":"我的哔哩[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/我的哔哩.js"},
     {"key":"drpy_js_厂长资源","name":"厂长资源[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/厂长资源.js"},
@@ -589,28 +501,6 @@
     {"key":"drpy_js_布雷蓝光[V2]","name":"布雷蓝光[V2][js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/布雷蓝光[V2].js"},
     {"key":"drpy_js_F7好看剧[V2]","name":"F7好看剧[V2][js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/F7好看剧[V2].js"},
     //以下阿里网盘搜索接口
-    {
-    "key":"姐姐",
-    "name":"玩偶姐姐",
-    "type":3,
-    "api":"csp_AppYsV2",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"http://dytt996.com/api.php/app/"
-    },
-    {
-    "key":"小姨",
-    "name":"玩偶妹妹",
-    "type":1,
-    "api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
-    "categories":[
-    "电影",
-    "电视剧",
-    "综艺",
-    "动漫"
-    ]
-    },
     {
     "key":"csp_woggcli",
     "name":"玩偶自营",
