@@ -1,5 +1,5 @@
     {
-    "spider":"./fty.jar;md5;0ab9c4d251b508bda92834b61269e8ba",
+    "spider":"./fty2.jar;md5;0ab9c4d251b508bda92834b61269e8ba",
     "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
    "sites":[
     {
@@ -351,7 +351,7 @@
     },
 {"key":"石榴","name":"石榴（XBPQ）","type":3,"api":"csp_XBPQ","playerType":"1","jar":"./XYQ.jar","ext":"./XBPQ/石榴.json"},
 {"key":"91影视","name":"九一","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar","ext":"./XBPQ/91ys.json"},
-{"key":"厂长","name":"厂长","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./XYQ.jar","ext":"./XBPQ/厂长.json"},
+{"key":"厂长","name":"厂长","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./XBPQ/厂长.json"},
 {"key":"农民影视","name":"农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar","ext":"./XBPQ/nongmin.json"},
 {"key":"csp_Free","name":"Free","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar","ext":"./XBPQ/Free.json"},
 {"key":"csp_五五","name":"五五","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar","ext":"./XBPQ/55.json"},
