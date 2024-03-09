@@ -52,7 +52,7 @@
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
 {"key":"Taohuazu","name":"桃花","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"http://thze.cc/$$$socks5://192.168.101.1:1080"},
-{"key":"Taohuazu","name":"NET","type":3,"api":"csp_Netflav","searchable":1,"quickSearch":1, "changeable":1, "filterable":0},	
+{"key":"Netflav","name":"NET","type":3,"api":"csp_Netflav","searchable":1,"quickSearch":1, "changeable":1, "filterable":0},	
 {
 			"key": "Iktv",
 			"name": "KTV",
