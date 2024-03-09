@@ -1,5 +1,5 @@
     {
-    "spider":"./fty2.jar;md5;0ab9c4d251b508bda92834b61269e8ba",
+    "spider":"./pg.jar;md5;0ab9c4d251b508bda92834b61269e8ba",
     "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
    "sites":[
     {
@@ -12,8 +12,8 @@
     "quickSearch":0,
     "filterable":0
     },
-    {"key":"好趣网","name":"电视|好趣网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/好趣网.js"},
-     {
+    //{"key":"好趣网","name":"电视|好趣网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/好趣网.js"},
+     //{
       "key": "cctv",
       "name": "央视大全",
       "type": 3,
@@ -29,7 +29,7 @@
       "api": "./lib/直播转点播2.js",
       "ext": "./lib/MV.json"
     },
-	   {
+	   //{
       "key": "MV_vod",
       "name": "明星┃MV",
       "type": 1,
@@ -52,29 +52,25 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
+{"key":"Taohuazu","name":"桃花","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"http://thze.cc/$$$socks5://192.168.101.1:1080"},
+{"key":"Taohuazu","name":"NET","type":3,"api":"csp_Netflav","searchable":1,"quickSearch":1, "changeable":1, "filterable":0},	
 {
-            "key": "开心玩偶",
-            "name": "开心表哥",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "jar": "./lib/开心.jar;md5;0ab5d5c3db5f5d26ea4f44d2278b87ac",
-            "ext": {
-                "二次截取": "1&&-1+module-item-cover",
-                "数组": "module-item-pic&&module-item-cover",
-                "副标题": "module-item-text*>&&<",
-                "导演": "导演：&&</div>",
-                "主演": "主演：&&</div>",
-                "简介": "剧情：&&</div>",
-                "搜索url": "http://www.214728327.xyz:56708/index.php/vodsearch/-------------.html?wd={wd}",
-                "分类url": "http://www.214728327.xyz:56708/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/year/{year}/page/{catePg}.html;;阿里",
-                "阿里token": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
-                "分类": "电影$1#剧集$2#综艺$4#动漫$3#短剧$5#音乐$6"
-            }
-        },
-	
+			"key": "Iktv",
+			"name": "KTV",
+			"type": 3,
+			"api": "csp_Iktv",
+			"searchable": 1,
+			"changeable": 0
+		},
+{
+			"key": "應用商店",
+			"name": "應用商店",
+			"type": 3,
+			"api": "csp_Market",
+			"searchable": 0,
+			"changeable": 0,
+			"ext": "https://fm.t4tv.hz.cz/json/market.json"
+		},
 	   {
             "key": "csp_wogg_cli",
             "name": "玩偶[T4]",
@@ -178,16 +174,7 @@
     "filterable":1,
     "changeable":0
     },
-     {
-      "key": "忍者",
-      "name": "忍者",
-      "type": 3,
-      "api": "csp_MYYS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://rzys.xyz"
-    },
+     
    {
             "key": "天天开心自营",
             "name": "开心自营 ",
