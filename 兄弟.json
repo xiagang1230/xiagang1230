@@ -93,7 +93,7 @@
             "filterable": 1,
             "changeable": 1,
             "playerType":"2",
-            "ext": "https://agit.ai/xiagang1230/TV/raw/branch/master/bilibili/bili.json"
+            "ext": "./bili/bili.json"
         },
    {
             "key": "csp_MTV",
@@ -105,7 +105,7 @@
             "filterable": 1,
             "changeable": 1,
             "playerType":"2",
-            "ext": "https://agit.ai/xiagang1230/TV/raw/branch/master/bilibili/MTV.json"
+            "ext": ./bilibili/MTV.json"
         },
          
    {
