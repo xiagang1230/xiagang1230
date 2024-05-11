@@ -1,4 +1,4 @@
-MV,#genre#
+MV12,#genre#
 云菲菲-小小新娘花,http://em.21dtv.com/songs/60113238.mkv
 李克勤-谢谢你的 一起走过的日子,http://em.21dtv.com/songs/60118662.mkv
 关心妍-像我这样的一个雅兹迪女子,http://em.21dtv.com/songs/60118367.mkv
@@ -498,6 +498,7 @@ Flower-やさしさで溢れるように,http://em.21dtv.com/songs/60134674.mkv
 萧楠+平易-下一个路口我还为你等候,http://em.21dtv.com/songs/60101492.mkv
 豫剧-新一代要继壮志汗洒高山,http://em.21dtv.com/songs/60134584.mkv
 赤龙-下一辈子你就是我的唯一,http://em.21dtv.com/songs/60086970.mkv
+MV12-1,#genre#
 陈瑞-像我这样的人你能懂几分,http://em.21dtv.com/songs/60098884.mkv
 赵传-像我一样骄傲,http://em.21dtv.com/songs/60117254.mkv
 张胜淼-想谈一场永不分手的恋爱,http://em.21dtv.com/songs/60099241.mkv

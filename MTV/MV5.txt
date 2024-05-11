@@ -1,4 +1,4 @@
-MV,#genre#
+MV5,#genre#
 新奇-今夜一杯酒,http://em.21dtv.com/songs/60145161.mkv
 断肠人在天涯+周传雄-爱你,http://em.21dtv.com/songs/60145160.mkv
 断肠人在天涯-一定要幸福,http://em.21dtv.com/songs/60145159.mkv
@@ -498,6 +498,7 @@ ACE组合-食味江湖,http://em.21dtv.com/songs/60144648.mkv
 杨娜-爱呀呀,http://em.21dtv.com/songs/60144624.mkv
 李贞贤-哇,http://em.21dtv.com/songs/60144623.mkv
 李清坡+DJ良少-单身的苦,http://em.21dtv.com/songs/60144622.mkv
+MV5-1,#genre#
 戴耀光-夜诱,http://em.21dtv.com/songs/60144621.mkv
 张卫-机器铃砍菜刀,http://em.21dtv.com/songs/60144620.mkv
 庄心妍+DJ阿远-真的不容易,http://em.21dtv.com/songs/60144619.mkv
@@ -971,8 +972,6 @@ MC阿哲+Q哥-做你的兄弟,http://em.21dtv.com/songs/60144248.mkv
 陈艺搏-墨客行,http://em.21dtv.com/songs/60144143.mkv
 陈群-情不自禁,http://em.21dtv.com/songs/60144142.mkv
 陈美诗-我会照顾你,http://em.21dtv.com/songs/60144141.mkv
-[Group]
-groupName=十六万歌曲MV等 - 116
 陈百潭+陈凯欣-情难了,http://em.21dtv.com/songs/60144140.mkv
 陈百潭+张艾莉-心中尺,http://em.21dtv.com/songs/60144139.mkv
 陈百潭-欢喜酒,http://em.21dtv.com/songs/60144138.mkv

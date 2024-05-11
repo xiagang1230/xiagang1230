@@ -1,4 +1,4 @@
-MV,#genre#
+MV7,#genre#
 云丹久美+花儿梦组合-甘谷信合是我家,http://em.21dtv.com/songs/60143114.mkv
 云丹久美-等着我来爱(MTV),http://em.21dtv.com/songs/60143113.mkv
 于清龙-兄弟的歌,http://em.21dtv.com/songs/60143112.mkv
@@ -99,6 +99,7 @@ A Lin+J.Sheon-你点的歌救了我,http://em.21dtv.com/songs/60143041.mkv
 黄明志-击败人,http://em.21dtv.com/songs/60139319.mkv
 黄慈轩-喵了个咪,http://em.21dtv.com/songs/60139318.mkv
 黄子韬-还来得及,http://em.21dtv.com/songs/60139317.mkv
+MV7-1,#genre#
 黄婷婷-星光闪耀,http://em.21dtv.com/songs/60139316.mkv
 黄品源+万芳-小薇,http://em.21dtv.com/songs/60139315.mkv
 黄品源-那么爱你为什么,http://em.21dtv.com/songs/60139314.mkv
@@ -173,8 +174,6 @@ A Lin+J.Sheon-你点的歌救了我,http://em.21dtv.com/songs/60143041.mkv
 陈随意-惦惦离开,http://em.21dtv.com/songs/60139245.mkv
 陈赫+小沈阳-光辉岁月,http://em.21dtv.com/songs/60139244.mkv
 陈赫-最美,http://em.21dtv.com/songs/60139243.mkv
-[Group]
-groupName=十六万歌曲MV等 - 115
 陈赫-唱歌给你听,http://em.21dtv.com/songs/60139242.mkv
 陈赫-Mamak档,http://em.21dtv.com/songs/60139241.mkv
 陈诗雨-故乡,http://em.21dtv.com/songs/60139240.mkv
@@ -199,6 +198,7 @@ groupName=十六万歌曲MV等 - 115
 陈哲宇-永远,http://em.21dtv.com/songs/60139221.mkv
 陈剑-上上之策,http://em.21dtv.com/songs/60139220.mkv
 陈冰-隐没在戈壁,http://em.21dtv.com/songs/60139219.mkv
+MV7-2,#genre#
 陈俊析+蔡国庆-我和我的祖国,http://em.21dtv.com/songs/60139218.mkv
 陈伟霆-因你,http://em.21dtv.com/songs/60139217.mkv
 陆平-希腊神话,http://em.21dtv.com/songs/60139216.mkv
@@ -299,6 +299,7 @@ groupName=十六万歌曲MV等 - 115
 贺一航+孟杨-天生一对,http://em.21dtv.com/songs/60139121.mkv
 贺一航-没必要,http://em.21dtv.com/songs/60139120.mkv
 贺一航-我对你动了心,http://em.21dtv.com/songs/60139119.mkv
+MV7-3,#genre#
 贯诗钦-悬念,http://em.21dtv.com/songs/60139118.mkv
 谭艳-光明,http://em.21dtv.com/songs/60139117.mkv
 谭维维-绣春,http://em.21dtv.com/songs/60139116.mkv
@@ -399,6 +400,7 @@ groupName=十六万歌曲MV等 - 115
 群星-十七岁的我有些话想说,http://em.21dtv.com/songs/60139021.mkv
 罗海东+张智霖+林夏羽+麦贝夷-现代爱情故事,http://em.21dtv.com/songs/60139020.mkv
 罗大佑-家,http://em.21dtv.com/songs/60139019.mkv
+MV7-4,#genre#
 罗丽珊-站在草原望北京,http://em.21dtv.com/songs/60139018.mkv
 罗中旭-成品家装方程式,http://em.21dtv.com/songs/60139017.mkv
 缪杰-那一年,http://em.21dtv.com/songs/60139016.mkv
@@ -499,6 +501,7 @@ groupName=十六万歌曲MV等 - 115
 汪苏泷-金曲捞,http://em.21dtv.com/songs/60138921.mkv
 汪峰-我会在这儿等你,http://em.21dtv.com/songs/60138920.mkv
 汪刚-想要忘记你真的不容易,http://em.21dtv.com/songs/60138919.mkv
+MV7-5,#genre#
 汤米儿-留守的孩子,http://em.21dtv.com/songs/60138918.mkv
 江若琳-思念做宵夜,http://em.21dtv.com/songs/60138917.mkv
 江福永-月儿,http://em.21dtv.com/songs/60138916.mkv
@@ -599,6 +602,7 @@ groupName=十六万歌曲MV等 - 115
 李宇春+彭雅纯+周君怡+刘思良-下个路口见,http://em.21dtv.com/songs/60138821.mkv
 李宇春+彭雅纯-再不疯狂我们就老了,http://em.21dtv.com/songs/60138820.mkv
 李宇春-一百种热爱,http://em.21dtv.com/songs/60138819.mkv
+MV7-6,#genre#
 李天平-李什么,http://em.21dtv.com/songs/60138818.mkv
 李多娜-不要伤害,http://em.21dtv.com/songs/60138817.mkv
 李夏-骄阳似我,http://em.21dtv.com/songs/60138816.mkv
@@ -699,6 +703,7 @@ groupName=十六万歌曲MV等 - 115
 张继科-成都,http://em.21dtv.com/songs/60138721.mkv
 张继科-夜空中最亮的星,http://em.21dtv.com/songs/60138720.mkv
 张继科-不会改变,http://em.21dtv.com/songs/60138719.mkv
+MV7-7,#genre#
 张礼慧-仙女山你让我好想,http://em.21dtv.com/songs/60138718.mkv
 张磊-因为一个人,http://em.21dtv.com/songs/60138717.mkv
 张瀚元-如果李白遇到霾,http://em.21dtv.com/songs/60138716.mkv
@@ -799,6 +804,7 @@ groupName=十六万歌曲MV等 - 115
 孔雀眼-你在等什么,http://em.21dtv.com/songs/60138621.mkv
 孔庆学-草原牧歌,http://em.21dtv.com/songs/60138620.mkv
 孔庆学-等待,http://em.21dtv.com/songs/60138619.mkv
+MV7-8,#genre#
 孔庆学-祝福,http://em.21dtv.com/songs/60138618.mkv
 孔庆学-桃花为什么这样红,http://em.21dtv.com/songs/60138617.mkv
 孔庆学-故乡恋,http://em.21dtv.com/songs/60138616.mkv
@@ -899,6 +905,7 @@ groupName=十六万歌曲MV等 - 115
 叶世荣+黄贯中-大地,http://em.21dtv.com/songs/60138521.mkv
 古墓派小龙女-罗马古城的风在吹,http://em.21dtv.com/songs/60138520.mkv
 古墓派小龙女-泪蝶,http://em.21dtv.com/songs/60138519.mkv
+MV7-9,#genre#
 双笙-我的一个道姑朋友,http://em.21dtv.com/songs/60138518.mkv
 原子霏-半打玫瑰,http://em.21dtv.com/songs/60138517.mkv
 卢广仲-鱼仔,http://em.21dtv.com/songs/60138516.mkv

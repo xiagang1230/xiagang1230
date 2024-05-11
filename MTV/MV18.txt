@@ -1,4 +1,4 @@
-MV,#genre#
+MV18,#genre#
 彭佳慧-残酷的温柔,http://em.21dtv.com/songs/60074834.mkv
 佚名-从今后再莫说你治家有方,http://em.21dtv.com/songs/60013514.mkv
 郑源-曾经的少年,http://em.21dtv.com/songs/60115453.mkv
@@ -498,6 +498,7 @@ YOYO-爱到最后只剩下回忆,http://em.21dtv.com/songs/60062182.mkv
 梁凡-阿楚姑娘,http://em.21dtv.com/songs/60125810.mkv
 张雷-爱唱歌的男人不会太坏,http://em.21dtv.com/songs/60070448.mkv
 陈淑芳-暗哺夜介月光特别亮,http://em.21dtv.com/songs/60009361.mkv
+MV18-1,#genre#
 毛泓艳-爱不要成为自私的囚,http://em.21dtv.com/songs/60007033.mkv
 张惠妹-爱不太早不太晚刚好,http://em.21dtv.com/songs/60007025.mkv
 SONAR POCKET-365日のラブストーリー,http://em.21dtv.com/songs/60063515.mkv

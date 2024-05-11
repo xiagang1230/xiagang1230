@@ -1,4 +1,4 @@
-﻿MV2,#genre#
+MV2,#genre#
 刀郎经典歌曲《情人/为什么我泪水成行/2002年的第一场雪》等,https://vdse.bdstatic.com//9b34ac60de14344db632ced1bdac9ef3.mp4
 刀郎经典歌曲7首：《西海情歌》《敖包相会》《情人》冲动的惩罚HD,https://vdse.bdstatic.com//628ca08719cef5987ea2ae3c6f0d2386.mp4
 刀郎经典歌曲精选,https://vdse.bdstatic.com//4fcca19a19aa4974230c5ee70ab5fa55.mp4
@@ -498,6 +498,7 @@ TWINS-恋爱大过天,http://em.21dtv.com/songs/60026998.mkv
 王浩信-猫步,http://em.21dtv.com/songs/60028634.mkv
 王杰-说谎的爱人,http://vodcdn.video.taobao.com/oss/ali-video/c018ec304eb6566b56d7f0b85c77b473/video.m3u8
 王力宏-梦想被冷冻,http://em.21dtv.com/songs/60029668.mkv
+MV2-1,#genre#
 王栎鑫+俞灏明-热情的沙漠,http://em.21dtv.com/songs/60077341.mkv
 王麟-伤不起,http://vodcdn.video.taobao.com/oss/ali-video/1e3633ff1c3a525e148968b45c18f780/video.m3u8
 王梦麟+张行-阿美阿美,http://em.21dtv.com/songs/60006791.mkv

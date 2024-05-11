@@ -1,4 +1,4 @@
-MV,#genre#
+MV6,#genre#
 陈思镝-模范情书(现场版),http://em.21dtv.com/songs/60144114.mkv
 陈心蕊+东方红艳-家在草原根在草原,http://em.21dtv.com/songs/60144113.mkv
 陈德隆-回不去的爱,http://em.21dtv.com/songs/60144112.mkv
@@ -498,6 +498,7 @@ MV,#genre#
 梁静茹-我就知道那是爱,http://em.21dtv.com/songs/60143618.mkv
 梁汉文-缠绵朋友,http://em.21dtv.com/songs/60143617.mkv
 梁根荣-后退,http://em.21dtv.com/songs/60143616.mkv
+MV6-1,#genre#
 梁文福+刘瑞政+王邦吉-细水长流,http://em.21dtv.com/songs/60143615.mkv
 桑娜央金-我爱你西藏,http://em.21dtv.com/songs/60143614.mkv
 桑娜央金-心中的西藏,http://em.21dtv.com/songs/60143613.mkv
