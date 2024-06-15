@@ -81,7 +81,7 @@
             "filterable": 1,
             "changeable": 1,
             "playerType":"2",
-            "ext": "https://agit.ai/xiagang1230/TV/raw/branch/master/bilibili/Bili短剧.json"
+            "ext": "。/bili/Bili短剧.json"
         },
    {
             "key": "csp_Bili",
@@ -150,15 +150,7 @@
   "惊悚片", "犯罪片", "灾难片", "悬疑片", "爱情片", "喜剧片", "奇幻片", "恐怖片", "剧情片", "战争片", "动作片", "冒险片", "动画电影", "热门短剧", "国产剧", "欧美剧", "港台剧", "韩国剧", "日本剧", "台剧", "泰剧", "国产动漫", "日本动漫", "欧美动漫", "港台动漫", "韩国动漫", "国产综艺", "日本综艺", "港台综艺", "欧美综艺", "韩国综艺", "纪录片", "电影解说"
     ]
     },
-     {
-      "key": "苹果",
-      "name": "小苹果",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+    
     {
 			"key": "快看",
 			"name": "快看",
