@@ -113,7 +113,7 @@
       "name": "万首|MTV",
       "type": 3,
       "api": "./lib/直播转点播2.js",
-      "ext": "./lib/MV.json"
+      "ext": "./lib/MTV1.json"
     },
      {
     "key":"Iktv",
