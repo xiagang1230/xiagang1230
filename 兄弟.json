@@ -229,6 +229,17 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"./XBPQ/ynfys.json"},
+	    {
+			"key": "hipy_js_好趣网[播]",
+			"name": "好趣网(drpy_t3)",
+			"type": 3,
+			"api": "./lib/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./js/好趣网[播].js"
+		},
        {
     "key":"hipy_js_TVB云播",
     "name":"TVB云播(drpy_t3)",
@@ -240,6 +251,18 @@
     "order_num":0,
     "ext":"./js/TVB云播.js"
     },
+	{
+			"key": "hipy_js_荐片[优]",
+			"name": "荐片[优](drpy_t3)",
+			"type": 3,
+			"api": "./lib/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./js/荐片[优].js"
+		},
+    
     {
     "key":"hipy_js_即看影视",
     "name":"即看影视(drpy_t3)",
