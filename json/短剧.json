@@ -3,11 +3,11 @@
  "classes": [
     {
       "type_name": "短剧",
-      "type_id": "短剧"
+      "type_id": "一口气短剧"
     },
     {
       "type_name": "沙雕动画",
-      "type_id": "沙雕动画"
+      "type_id": "一口气沙雕动画"
     }
   ],
   "filter": {
